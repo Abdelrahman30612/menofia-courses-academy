@@ -12,7 +12,7 @@ const AboutSection: React.FC<AboutSectionProps> = ({ accreditations }) => {
         <img 
           src="https://i.ibb.co/wZW4zgyp/mca.png" 
           alt="Menofia Courses Academy Logo" 
-          className="mx-auto mb-12 h-80 w-auto"
+          className="mx-auto mb-12 h-96 w-auto main-logo-glow"
         />
         <h2 className="text-4xl font-bold mb-6 text-amber-500">من نحن؟</h2>
         <p className="text-lg text-slate-300 leading-relaxed mb-12 max-w-4xl mx-auto">
