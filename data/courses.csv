@@ -1,0 +1,5 @@
+CourseName,Description,"Price (EGP)",ImageURL,BookingLink,Instructor,days,Time
+"دورة تصميم المواقع","تعلم أساسيات HTML, CSS, و JavaScript لبناء مواقع ويب تفاعلية.",1500,"https://images.unsplash.com/photo-1504639725590-949076426ec4?q=80&w=2070&auto=format&fit=crop","https://example.com/register/web-design","أحمد علي","من الأحد إلى الخميس","6م - 8م"
+"التسويق الرقمي المتقدم","استراتيجيات متقدمة في SEO, SEM, والتسويق عبر وسائل التواصل الاجتماعي.",2500,"https://images.unsplash.com/photo-1557862921-37829c790f19?q=80&w=2071&auto=format&fit=crop","https://example.com/register/digital-marketing","فاطمة الزهراء","السبت والثلاثاء","5م - 9م"
+"تحليل البيانات باستخدام Python","استكشف عالم البيانات وتعلم كيفية تحليلها وتصورها باستخدام مكتبات Python القوية.",2000,"https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop","https://example.com/register/python-data","خالد محمود","من الاثنين إلى الجمعة","7م - 9م"
+"سيره ذاتيه","سيرخ ذاتيه دررش",0,##,##,عبدو,"من الأحد للخميس","9ص - 12م"
